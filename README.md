@@ -3,7 +3,7 @@ Let's dive into the world where we make the data feel that they belong to someti
 
 # Introduction
 
-Lets understand what interpolation is. Given data (x_i, y_i), i = 0, 1, 2, 3,....,n$ we have to find a function $f$ such that $f(x_i)$ is called interpolating function, the problem is called  interpolating problem and the method/process is called interpolation. 
+Lets understand what interpolation is. Given data (x<sub>i</sub>, y<sub>i</sub>), i = 0, 1, 2, 3,....,n .  we have to find a function f such that f(x<sub>i</sub>) is called interpolating function, the problem is called  interpolating problem and the method/process is called interpolation. 
 
 It is used to plot a smooth curve through discrete data points, when we want to find the in-between values function in a table, or when we differentiate or integrate black-box type functions.
 
@@ -16,6 +16,4 @@ So, to justify the discrete point we need function but how to get that function.
 - Exponential functions
  
  
- \sum_{\forall i}{x_i^{2}}
-  
-     h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ 
