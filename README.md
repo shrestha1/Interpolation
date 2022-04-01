@@ -7,4 +7,12 @@ Lets understand what interpolation is. Given data $(x_i, y_i), i = 0, 1, 2, 3,..
 
 It is used to plot a smooth curve through discrete data points, when we want to find the in-between values function in a table, or when we differentiate or integrate black-box type functions.
 
-So, to justify the discrete point we need function but how to get that function. Examples of functions used in interpolations:
+So, to justify the discrete point we need function but how to get that function. Examples of functions used in interpolations are:
+
+- Polynomial
+- Piecewise polynomial
+- Rational functions,
+- Trigonometric functions
+- Exponential functions
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
