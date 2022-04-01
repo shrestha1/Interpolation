@@ -16,4 +16,6 @@ So, to justify the discrete point we need function but how to get that function.
 - Exponential functions
  
  
- \sum_{\forall i}{x_i^{2}} 
+ \sum_{\forall i}{x_i^{2}}
+  
+     h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
