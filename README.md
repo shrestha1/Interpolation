@@ -14,9 +14,3 @@ So, to justify the discrete point we need function but how to get that function.
 - Rational functions,
 - Trigonometric functions
 - Exponential functions
-
-$$
-P(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{\frac{-(x-\mu)^2}{2\sigma^2}}
-$$
-
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
