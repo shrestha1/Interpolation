@@ -14,3 +14,6 @@ So, to justify the discrete point we need function but how to get that function.
 - Rational functions,
 - Trigonometric functions
 - Exponential functions
+ 
+ 
+ \sum_{\forall i}{x_i^{2}} 
